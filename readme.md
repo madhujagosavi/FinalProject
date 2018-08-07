@@ -4,7 +4,7 @@ The objective is to predict the audio classification label for the audio files f
 
 Well not anymore, we can train our machines to do that for us
 
-## Purpose of the project 
+## Why this project 
 
 Partly, because of the vastness of sounds we experience, no reliable automatic general-purpose audio tagging systems exist. Currently, a lot of manual effort is required for tasks like annotating sound collections and providing captions for non-speech events in audiovisual content.
 
