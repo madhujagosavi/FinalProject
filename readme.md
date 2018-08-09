@@ -55,5 +55,7 @@ We're challenged to build a general-purpose automatic audio tagging system using
     conda install -c anaconda keras-gpu 
     conda install -c anaconda scipy
     conda install -c anaconda scikit-learn
+    conda install -c conda-forge mlxtend 
+    conda install -c conda-forge librosa
     ```
       If you have installed anaconda, you'll have rest of the libraries pre-installed for you.
